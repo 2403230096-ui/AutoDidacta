@@ -20,7 +20,7 @@ Principalmente las condicionales son operaciones o estructuras que permiten al p
 Esta es una condicion que ejecuta un bloque de codigo si dicha condicion es verdadera.
 
 Y se aplica cuando las condiciones son un True o False.
-Basicamente Funciona con operacones booleanas las cuales dependeiendo del resultado pensado, pueden dar paso a realizar una o varias acciones dentro de un bloque de codigo.
+Basicamente Funciona con operaciones booleanas las cuales dependeiendo del resultado pensado, pueden dar paso a realizar una o varias acciones dentro de un bloque de codigo.
 
 '''
 
